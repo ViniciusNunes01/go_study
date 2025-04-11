@@ -15,4 +15,5 @@ func main() {
 
 func sayHello(stringName string) {
 	fmt.Printf("Hello %s, from function!\n", stringName)
+	fmt.Printf("Now its a new version!")
 }
